@@ -69,7 +69,7 @@ Contains the output files produced by the classes above
 
 #### wordcloud
 
-![](/home/yawda/Desktop/insomnia_scraper/output/wordcloud.png)
+![](https://github.com/vbaira/insomnia.gr-scraper/blob/master/output/wordcloud.png)
 
 The wordcloud is produced using the 150 most common terms found in the posts(without stopwords).It is obvious that the threads were about amd/nvidia graphics cards and video games
 
@@ -77,7 +77,7 @@ The wordcloud is produced using the 150 most common terms found in the posts(wit
 
 #### Posts per hour
 
-<img src="/home/yawda/Desktop/insomnia_scraper/output/post_hours.png " width="500" height="400" />
+<img src="https://github.com/vbaira/insomnia.gr-scraper/blob/master/output/post_hours.png">
 
 The above graph shows how many of the posts were posted during a certain hour of the day. As expected the peak of posting is around 12:00 pm and then it starts dropping gradually. The posting rate drops significantly during midnight and starts rising again around 5:00 am.
 
@@ -87,5 +87,5 @@ The above graph shows how many of the posts were posted during a certain hour of
 
 The graph below shows the distribution between  amd and nvidia references of each user. Users clearly refer to amd more , which is is expected mainly because the threads were about new releases of amd cards. Users who neither reference amd nor nvidia in their posts , are considered neutral .The graph is better viewed when zoomed in.
 
-<img src="/home/yawda/Desktop/insomnia_scraper/output/user_preference.png " width="500" height="700" />
+<img src="https://github.com/vbaira/insomnia.gr-scraper/blob/master/output/user_preference.png" width="500" height="700" />
 
